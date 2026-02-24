@@ -1,6 +1,4 @@
-import Image from "next/image";
-import Hero from "./components/Hero";
-import { Navbar } from "./components";
+import { Hero, Navbar } from "./components"
 
 export default function Home() {
   return (
